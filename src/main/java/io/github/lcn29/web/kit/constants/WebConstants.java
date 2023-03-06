@@ -38,6 +38,6 @@ public class WebConstants {
     /**
      * 带时分秒的时间格式
      */
-    public final static String DATE_TIME_FORMAT = "yyyy-MM-dd hh:mm:ss";
+    public final static String DATE_TIME_FORMAT = "yyyy-MM-dd HH:mm:ss";
 
 }
